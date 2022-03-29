@@ -1,6 +1,5 @@
 ﻿decimal num1 = 0;
 decimal num2 = 0;
-
 char symbol;
 
 
@@ -41,6 +40,4 @@ while (true)
     
     Thread.Sleep(2500);
     Console.Clear();
-
-
 }
